@@ -1,71 +1,77 @@
 
-# Jin Park
+<h1 align="center">✨ Jin Park</h1>
+<h3 align="center">CS Student | Founder of ALEXANDRIA | Human-Centered Tech Visionary</h3>
 
-**CS Student | Founder of ALEXANDRIA | Human-Centered Tech Visionary**
+<p align="center">
+  <a href="https://linkedin.com/in/jiniuspark">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jiniuspark-newsletter@hackernoon.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://hackernoon.com/u/jiniuspark">
+    <img src="https://img.shields.io/badge/Hackernoon-00FE72?style=flat-square&logo=Hackernoon&logoColor=black" alt="Hackernoon" />
+  </a>
+</p>
 
 ---
 
 ## 🌱 About Me
 
-Hello! I'm Jin Park, a first-year computer science student and self-taught developer with a strong background in international marketing, business communications, and over a decade in hospitality.
+Hello! I'm **Jin Park**, a first-year computer science student and self-taught developer with a background in international marketing and business communications.
 
-After years of being discouraged from pursuing tech due to traditional education limitations, I finally decided to build the tool I always wished existed — not just for myself, but for anyone who ever felt too overwhelmed, too lost, or too different to fit into rigid learning systems.
+After years of being discouraged from pursuing tech due to traditional educational limitations, I decided to build what I couldn’t find — a platform designed to adapt to how *humans actually learn*.
 
-Now I’m building [**ALEXANDRIA**](https://startling-praline-fc0599.netlify.app/) — an intelligent, modular learning platform that redefines what education can be when we design with humanity, mental health, and inclusivity at the center.
-
----
-
-## 💻 Currently Learning
-
-- Python
-- HTML / CSS / JavaScript
-- Data Structures & Algorithms
-- Web Development
-- Systems Architecture
+> ⚡ **ALEXANDRIA** is the system I always needed. Now I’m building it for others, too.
 
 ---
 
-## 🧠 Vision Project: ALEXANDRIA
+## 🧠 Vision Project: Alexandria
 
-ALEXANDRIA is a growing educational platform and experiment in radical accessibility. It's not just a Python learning app — it's an evolving **modular engine** for knowledge that:
+ALEXANDRIA is not just a Python tutorial — it's a **reimagined learning engine** designed for accessibility, emotional health, and modular scalability.
 
-- Makes learning interactive, visual, and human-first
-- Offers mental health tools integrated into the learning experience
-- Prioritizes accessibility with TTS, dyslexia fonts, dark mode, and more
-- Reflects my own journey from struggling learner to builder
+**Key Features:**
+- 🧩 Modular curriculum engine (JSON/Markdown)
+- 💬 In-browser code editor with Pyodide
+- ♿ Accessibility-first (TTS, dyslexia font, contrast control)
+- 🧠 Mental health tools (in progress)
+- 🛠 Developer tools, roadmap, and changelog engine
+- 🌐 Language expansion & Korean language learning planned
 
-> “Alexandria is built on a single belief: People don’t fail to learn — we fail to build systems that respect how they learn.”
+**Tech Stack:** React · TypeScript · Tailwind · Pyodide · Supabase · TipTap
 
-**Tech Stack**: React, TypeScript, Tailwind, Pyodide, Supabase, TipTap
+> “People don’t fail to learn — we fail to build systems that respect how they learn.”
 
-**Features**:
-- In-browser Python execution
-- Learning journal with local and cloud persistence
-- Accessibility panel (TTS, fonts, contrast)
-- Dev mode editor for live content building
-- Dynamic content engine with roadmap + changelogs
-- Anonymous mental health tools in development
+---
+
+## 📚 Currently Learning
+
+- Python Fundamentals  
+- HTML / CSS / JavaScript  
+- Data Structures & Algorithms  
+- Web Development Principles  
+- System Architecture & Modular Design  
 
 ---
 
 ## 🔍 Research Interests
 
-- Human-centered UI/UX Design
-- Adaptive learning engines
-- AI & ML for personalization
-- Digital mental health tools
-- Web systems architecture
+- 🎨 Human-centered UI/UX Design  
+- 📈 Adaptive learning engines  
+- 🧬 AI & ML for personalization  
+- 🧘‍♂️ Digital mental health in education  
+- 🌍 Open-source education systems  
 
 ---
 
-## 📌 GitHub Goals for 2025
+## 📌 2025 Goals
 
-- [ ] Expand ALEXANDRIA to include multilingual content
-- [ ] Launch Korean language learning module
-- [ ] Open-source the modular engine as a standalone repo
-- [ ] Document all internal architecture
-- [ ] Begin building a mentor/coach community platform
+- [ ] Release Alexandria's multilingual engine
+- [ ] Launch Korean learning module
+- [ ] Open-source modular curriculum editor
+- [ ] Expand wellness toolkit for learners
+- [ ] Build a mentoring ecosystem for global learning
 
 ---
 
-💜 *Thanks for visiting my profile! Let’s build the future of learning together.* 💜
+<p align="center">💜 Thanks for stopping by. Let's build the future of inclusive education together. 💜</p>
