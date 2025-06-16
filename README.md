@@ -1,13 +1,19 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jiniuspark&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-<h1 align="center">✨ Jin Park</h1>
-<h3 align="center">CS Student | Founder of ALEXANDRIA | Human-Centered Tech Visionary</h3>
+<h1 align="center">🔐 Jin Park</h1>
+<h3 align="center">Aspiring Cybersecurity Engineer | CS Student | Founder of ALEXANDRIA</h3>
 
-  </a>
-  <a href="mailto:jiniusme@pm.me>
+<p align="center">
+  <a href="mailto:jiniusme@pm.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://hackernoon.com/u/jiniuspark">
-    <img src="https://img.shields.io/badge/Hackernoon-00FE72?style=flat-square&logo=Hackernoon&logoColor=black" alt="Hackernoon" />
+  <a href="[https://www.linkedin.com/in/jiniuspark](https://www.linkedin.com/in/imjinpark/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jiniuspark](https://github.com/JinParkmida)](https://github.com/JinParkmida)?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="https://img.shields.io/badge/Top%20Repos-CyberSec-blue?style=flat-square" alt="Top Repos" />
   </a>
 </p>
 
@@ -15,60 +21,55 @@
 
 ## 🌱 About Me
 
-Hello! I'm **Jin Park**, a first-year computer science student and self-taught developer with a background in international marketing and business communications.
-
-After years of being discouraged from pursuing tech due to traditional educational limitations, I decided to build what I couldn’t find — a platform designed to adapt to how *humans actually learn*.
-
-> ⚡ **ALEXANDRIA** is the system I always needed. Now I’m building it for others, too.
+I’m **Jin Park**, a first-year CS student and self-taught dev pivoting into **cybersecurity**.  
+Founder of **ALEXANDRIA** (a human-first learning engine), now channeling that passion into building security tools and labs that teach both **how systems work** and **how they break**.
 
 ---
 
-## 🧠 Vision Project: Alexandria
+## 🛠️ Cybersecurity Projects I am currently working on:
 
-ALEXANDRIA is not just a Python tutorial — it's a **reimagined learning engine** designed for accessibility, emotional health, and modular scalability.
+:eyes: **TLS-Intercept GUI**  
+A full-stack MITM proxy (Node.js) with live Web UI for inspecting HTTPS certs, headers, and blocks.
 
-**Key Features:**
-- 🧩 Modular curriculum engine (JSON/Markdown)
-- 💬 In-browser code editor with Pyodide
-- ♿ Accessibility-first (TTS, dyslexia font, contrast control)
-- 🧠 Mental health tools (in progress)
-- 🛠 Developer tools, roadmap, and changelog engine
-- 🌐 Language expansion & Korean language learning planned
+:shield: **Homebrew SSH Honeypot**  
+Dockerized honeypot that logs brute-force attempts and visualizes attacker IPs on an ELK dashboard.
 
-**Tech Stack:** React · TypeScript · Tailwind · Pyodide · Supabase · TipTap
+:robot: **IoT Vulnerability Scanner**  
+Python/Scapy tool to fingerprint local IoT devices, cross-reference CVEs, and auto-generate risk reports.
 
-> “People don’t fail to learn — we fail to build systems that respect how they learn.”
+:zap: **Mini CTF Challenge Suite**  
+A set of Dockerized web apps with OWASP Top 10 vulnerabilities and auto-grading scripts for hands-on practice.
+
+---
+
+## 💻 Skills & Tools
+
+- **Languages:** Python · Node.js · Bash · PowerShell  
+- **Tools:** mitmproxy · Scapy · Wireshark · Nmap · Burp Suite Community  
+- **Platforms:** Docker · VirtualBox · ELK Stack · AWS Free Tier  
+- **Concepts:** TCP/IP · TLS/SSL · PKI · OSINT · Vulnerability Assessment · CTFs
 
 ---
 
 ## 📚 Currently Learning
 
-- Python Fundamentals  
-- HTML / CSS / JavaScript  
-- Data Structures & Algorithms  
-- Web Development Principles  
-- System Architecture & Modular Design  
+- Network Protocols & Packet Crafting  
+- Cryptography & PKI Internals  
+- Windows & Linux Exploitation  
+- Secure DevOps & Infrastructure as Code  
+- Incident Response & Forensics
 
 ---
 
 ## 🔍 Research Interests
 
-- 🎨 Human-centered UI/UX Design  
-- 📈 Adaptive learning engines  
-- 🧬 AI & ML for personalization  
-- 🧘‍♂️ Digital mental health in education  
-- 🌍 Open-source education systems  
+- 🔒 Adaptive Offensive & Defensive Tooling  
+- 🧩 Automated Recon & Enumeration Pipelines  
+- 🧠 AI-driven Threat Detection  
+- 🌐 Secure API Design & Pen-Testing  
+- 🧰 Human-centered Security UX
 
 ---
-
-## 📌 2025 Goals
-
-- [ ] Release Alexandria's multilingual engine
-- [ ] Launch Korean learning module
-- [ ] Open-source modular curriculum editor
-- [ ] Expand wellness toolkit for learners
-- [ ] Build a mentoring ecosystem for global learning
-
----
-
-<p align="center">💜 Thanks for stopping by. Let's build the future of inclusive education together. 💜</p>
+<p align="center">
+  💜 Thanks for stopping by—let’s secure the future together. 💜  
+</p>
